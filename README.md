@@ -4,4 +4,4 @@ It is a Ready Made Web framework made in Flask containing sets of standard On Th
 
 API's can eaisly be intregated with HTML and differnet backend and plugins.
 
-Cantain Industry Standard Design and other required things.
+Contain Industry Standard Design and other required things.
